@@ -1,0 +1,13 @@
+com\qa\testscript\TC_FlightsModule_001.class
+com\qa\testscript\TC_TrainsModule_001.class
+com\qa\pages\TrainPages.class
+com\qa\testscript\TC_BusModule_001.class
+com\qa\pages\FlightPages.class
+com\qa\testscript\TestBase.class
+com\qa\pages\CabsPages.class
+com\qa\pages\HotelsPages.class
+com\qa\testscript\TC_HotelsBookingModule_001.class
+com\qa\testscript\TC_CabsModule_001.class
+com\qa\pages\BusPages.class
+com\qa\utility\ExcelUtility.class
+com\qa\utility\Reporting.class

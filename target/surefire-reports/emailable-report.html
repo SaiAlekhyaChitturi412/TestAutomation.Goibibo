@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Goibibo Functional Testing</th></tr>
+<tr><td><a href="#t0">Functional Test</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">388,448</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Goibibo Functional Testing</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Functional Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.qa.testscript.TC_FlightsModule_001</td><td><a href="#m0">searchFlight</a></td><td rowspan="1">1632312786813</td><td rowspan="1">57163</td></tr><tr><th colspan="4">Functional Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.qa.testscript.TC_BusModule_001</td><td><a href="#m1">BusModule</a></td><td rowspan="1">1632312462100</td><td rowspan="1">34799</td></tr><tr class="passedodd"><td rowspan="1">com.qa.testscript.TC_CabsModule_001</td><td><a href="#m2">cabsTesting</a></td><td rowspan="1">1632312724943</td><td rowspan="1">54345</td></tr><tr class="passedeven"><td rowspan="1">com.qa.testscript.TC_HotelsBookingModule_001</td><td><a href="#m3">HotelsBooking</a></td><td rowspan="1">1632312590375</td><td rowspan="1">130971</td></tr><tr class="passedodd"><td rowspan="1">com.qa.testscript.TC_TrainsModule_001</td><td><a href="#m4">bookTrain</a></td><td rowspan="1">1632312504499</td><td rowspan="1">81978</td></tr></tbody>
+</table>
+<h2>Functional Test</h2><h3 id="m0">com.qa.testscript.TC_FlightsModule_001#searchFlight</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th></tr><tr class="param stripe"><td>Mumbai</td><td>Delhi</td><td>B</td><td>1.0</td><td>Mr</td><td>Mano Prajith </td><td>R</td><td>manoprajith@rediffmail.com</td><td>8.760065582E9</td></tr><tr><th colspan="9">Exception</th></tr><tr><td colspan="9"><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[text()=&apos;Vistara&apos;]/preceding-sibling::span[@class=&apos;alignItemsCenter dF padT5&apos;]/parent::span[@class=&apos;flexCol padL5&apos;]/parent::div[@class=&apos;dF justifyBetween flex1 alignItemsCenter&apos;]&quot;}
+  (Session info: chrome=93.0.4577.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;JARVIS-SKYNET&apos;, ip: &apos;192.168.1.104&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\CHITTURI\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52854}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e7825b8a8c9d18bdbe8438837ae272d
+*** Element info: {Using=xpath, value=//span[text()=&apos;Vistara&apos;]/preceding-sibling::span[@class=&apos;alignItemsCenter dF padT5&apos;]/parent::span[@class=&apos;flexCol padL5&apos;]/parent::div[@class=&apos;dF justifyBetween flex1 alignItemsCenter&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy11.isDisplayed(Unknown Source)
+	at com.qa.testscript.TC_FlightsModule_001.searchFlight(TC_FlightsModule_001.java:83)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.qa.testscript.TC_BusModule_001#BusModule</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th><th>Parameter #12</th></tr><tr class="param stripe"><td>Coimbatore</td><td>Chennai</td><td>12-Oct-2021</td><td>Vadavalli</td><td>Anna Nagar</td><td>Lawley Road</td><td>Urapakkam</td><td>Female</td><td>Dharshiny Sundaresan</td><td>21.0</td><td>test@gmail.com</td><td>9.999988888E9</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.qa.testscript.TC_CabsModule_001#cabsTesting</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th></tr><tr class="param stripe"><td>Hyderabad</td><td>Banglore</td><td>Beeramguda</td><td>Vamshi</td><td>1.234567891E9</td><td>test@gmail.com</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.qa.testscript.TC_HotelsBookingModule_001#HotelsBooking</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th></tr><tr class="param stripe"><td>Miss</td><td>Sai Alekhya</td><td>Chitturi</td><td>testing@gmail.com</td><td>9.542695032E9</td><td>Hyderabad</td><td>12-Nov-2021</td><td>15-Nov-2021</td></tr><tr><th colspan="8">Messages</th></tr><tr><td colspan="8"><div class="messages">India is selected<br/>Hyderabad
+City
+1340 Hotels<br/>Near Nampally Train Station, Hyderabad
+Area
+216 Hotels<br/>Secunderabad, Hyderabad
+Area
+142 Hotels<br/>Gachibowli, Hyderabad
+Area
+129 Hotels<br/>Rajiv Gandhi Intl Airport ( HYD ), Hyderabad
+Airport
+533 Hotels<br/>Hyderabad Biryani House, Ooty
+Landmark
+261 Hotels<br/>CARE Hospitals - Banjara Hills, Hyderabad, Hyderabad
+Landmark
+328 Hotels<br/>Hyderabad days, Hyderabad
+Hotel<br/>Hyderabad Marriott Hotel and Convention Centre, Hyderabad
+Hotel
+4.4 / 5<br/>Pay At hotel is Clicked<br/>Price Range Clicked<br/>Clear is Clicked<br/>Hotel Rainbow Tower Shamshabad Airport Zone<br/>Blue Dawn Suites Service Appartment<br/>OYO 69510 Hotel 3m<br/>Aditya Hometel Hyderabad - A Sarovar Hotel<br/>2832<br/>2761<br/>3650<br/>3583<br/>Room optionsis clicked<br/>Amenities is clicked<br/>Guestreview is clicked<br/>hotelpolicies is clicked<br/>User in the Booking Page/Payment Page<br/>FirstName Input is Correctly Entered<br/>LastName Input is entered Correctly</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.qa.testscript.TC_TrainsModule_001#bookTrain</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th><th>Parameter #6</th><th>Parameter #7</th><th>Parameter #8</th><th>Parameter #9</th><th>Parameter #10</th><th>Parameter #11</th></tr><tr class="param stripe"><td>Coimbatore main</td><td>Bangalore city</td><td>CBE LTT SPL - 01014</td><td>Kavi</td><td>23.0</td><td>27B, Horizon&apos;s Apartment</td><td>560067.0</td><td>8.574965215E9</td><td>kavi@gmail.com</td><td>kavi12</td><td>S4</td></tr><tr><th colspan="11">Messages</th></tr><tr><td colspan="11"><div class="messages">Navigated to Train category successfully.<br/>Searched the train successfully.<br/>Choosen the train successfully.<br/>The payment page is displayed successfully.</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

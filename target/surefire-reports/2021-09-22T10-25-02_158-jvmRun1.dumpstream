@@ -1,0 +1,238 @@
+# Created at 2021-09-22T10:25:25.680
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2021-09-22T10:25:30.713
+Unexpected IOException with stream: [
+
+# Created at 2021-09-22T10:25:30.714
+Unexpected IOException with stream: 1
+
+# Created at 2021-09-22T10:25:30.715
+Unexpected IOException with stream: 6
+
+# Created at 2021-09-22T10:25:30.724
+Unexpected IOException with stream: 3
+
+# Created at 2021-09-22T10:25:30.725
+Unexpected IOException with stream: 2
+
+# Created at 2021-09-22T10:25:30.725
+Unexpected IOException with stream: 2
+
+# Created at 2021-09-22T10:25:30.726
+Unexpected IOException with stream: 8
+
+# Created at 2021-09-22T10:25:30.726
+Unexpected IOException with stream: 6
+
+# Created at 2021-09-22T10:25:30.727
+Unexpected IOException with stream: 5
+
+# Created at 2021-09-22T10:25:30.727
+Unexpected IOException with stream: 3
+
+# Created at 2021-09-22T10:25:30.727
+Unexpected IOException with stream: 0
+
+# Created at 2021-09-22T10:25:30.728
+Unexpected IOException with stream: .
+
+# Created at 2021-09-22T10:25:30.728
+Unexpected IOException with stream: 7
+
+# Created at 2021-09-22T10:25:30.729
+Unexpected IOException with stream: 1
+
+# Created at 2021-09-22T10:25:30.729
+Unexpected IOException with stream: 3
+
+# Created at 2021-09-22T10:25:30.729
+Unexpected IOException with stream: ]
+
+# Created at 2021-09-22T10:25:30.730
+Unexpected IOException with stream: [
+
+# Created at 2021-09-22T10:25:30.730
+Unexpected IOException with stream: W
+
+# Created at 2021-09-22T10:25:30.730
+Unexpected IOException with stream: A
+
+# Created at 2021-09-22T10:25:30.730
+Unexpected IOException with stream: R
+
+# Created at 2021-09-22T10:25:30.731
+Unexpected IOException with stream: N
+
+# Created at 2021-09-22T10:25:30.731
+Unexpected IOException with stream: I
+
+# Created at 2021-09-22T10:25:30.731
+Unexpected IOException with stream: N
+
+# Created at 2021-09-22T10:25:30.731
+Unexpected IOException with stream: G
+
+# Created at 2021-09-22T10:25:30.731
+Unexpected IOException with stream: ]
+
+# Created at 2021-09-22T10:25:30.732
+Unexpected IOException with stream: :
+
+# Created at 2021-09-22T10:25:30.732
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.732
+Unexpected IOException with stream: T
+
+# Created at 2021-09-22T10:25:30.732
+Unexpected IOException with stream: i
+
+# Created at 2021-09-22T10:25:30.733
+Unexpected IOException with stream: m
+
+# Created at 2021-09-22T10:25:30.733
+Unexpected IOException with stream: e
+
+# Created at 2021-09-22T10:25:30.733
+Unexpected IOException with stream: d
+
+# Created at 2021-09-22T10:25:30.733
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.733
+Unexpected IOException with stream: o
+
+# Created at 2021-09-22T10:25:30.734
+Unexpected IOException with stream: u
+
+# Created at 2021-09-22T10:25:30.734
+Unexpected IOException with stream: t
+
+# Created at 2021-09-22T10:25:30.734
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.734
+Unexpected IOException with stream: c
+
+# Created at 2021-09-22T10:25:30.734
+Unexpected IOException with stream: o
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: n
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: n
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: e
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: c
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: t
+
+# Created at 2021-09-22T10:25:30.735
+Unexpected IOException with stream: i
+
+# Created at 2021-09-22T10:25:30.736
+Unexpected IOException with stream: n
+
+# Created at 2021-09-22T10:25:30.736
+Unexpected IOException with stream: g
+
+# Created at 2021-09-22T10:25:30.736
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.736
+Unexpected IOException with stream: t
+
+# Created at 2021-09-22T10:25:30.736
+Unexpected IOException with stream: o
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream: C
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream: h
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream: r
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream: o
+
+# Created at 2021-09-22T10:25:30.737
+Unexpected IOException with stream: m
+
+# Created at 2021-09-22T10:25:30.738
+Unexpected IOException with stream: e
+
+# Created at 2021-09-22T10:25:30.738
+Unexpected IOException with stream: ,
+
+# Created at 2021-09-22T10:25:30.738
+Unexpected IOException with stream:  
+
+# Created at 2021-09-22T10:25:30.738
+Unexpected IOException with stream: r
+
+# Created at 2021-09-22T10:25:30.738
+Unexpected IOException with stream: e
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: t
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: r
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: y
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: i
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: n
+
+# Created at 2021-09-22T10:25:30.739
+Unexpected IOException with stream: g
+
+# Created at 2021-09-22T10:25:30.740
+Unexpected IOException with stream: .
+
+# Created at 2021-09-22T10:25:30.740
+Unexpected IOException with stream: .
+
+# Created at 2021-09-22T10:25:30.740
+Unexpected IOException with stream: .
+
+# Created at 2021-09-22T10:25:30.741
+Unexpected IOException with stream: 
+
+# Created at 2021-09-22T10:25:30.741
+Unexpected IOException with stream: 
+
+
+# Created at 2021-09-22T10:25:38.970
+Unexpected IOException: 8,1,com.qa.testscript.TC_CabsModule_001,cabsTesting(com.qa.testscript.TC_CabsModule_001),null,chrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81\000A*** Element info: {Using=xpath\002C value=//input[@id='downshift-2-input']},null,chrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81\000A*** Element info: {Using=xpath\002C value=//input[@id='downshift-2-input']},TC_CabsModule_001.cabsTesting:39 \00BB WebDriver chrome not reachable\000A  (Session i...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81\000A*** Element info: {Using=xpath\002C value=//input[@id='downshift-2-input']}\000A\0009at com.qa.testscript.TC_CabsModule_001.cabsTesting(TC_CabsModule_001.java:39)\000A
+
+
+# Created at 2021-09-22T10:25:39.164
+Unexpected IOException: 8,1,com.qa.testscript.TC_CabsModule_001,tearDown(com.qa.testscript.TC_CabsModule_001),null,chrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81,null,chrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81,TC_CabsModule_001>TestBase.tearDown:87 \00BB WebDriver chrome not reachable\000A  (Ses...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=93.0.4577.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'JARVIS-SKYNET'\002C ip: '192.168.1.104'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_301'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 93.0.4577.82\002C chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad...\002C userDataDir: C:\005CUsers\005CCHITTURI\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:62588}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f6799e039b954503d65d9051d750da81\000A
+
+
+# Created at 2021-09-22T10:25:39.533
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
